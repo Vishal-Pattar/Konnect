@@ -1,0 +1,92 @@
+#main-div
+{
+    background-color: #ffffff;
+}
+#logo
+{
+    background-color: #ffffff;
+}
+#sub-div
+{
+    height: 70vh;
+    width: 60vw;
+    position: absolute;
+    margin: 15vh 20vw 15vh 20vw;
+    background: rgba(92, 219, 149, 0.3);
+    text-align: center;
+    justify-content: center;
+    display: block;
+}  
+#resetname
+{
+    margin-top: 2vh;
+    color: #000;
+    font-size: 4vh;
+    display: block;
+}
+#email
+{
+    height: 5vh;
+    width: 40vw;
+    margin-top: 8vh;
+    font-size: 3vh;
+    border-style: none;
+    border: none;
+    outline: none;
+}
+#mailtag
+{
+    height: 3vh;
+    width: 40vw;
+    margin-top: 2vh;
+    margin-left: 10vw;
+    font-size: 2vh;
+    color: #ff0000;
+}
+#sendotp
+{
+    height: 5vh;
+    width: 10vw;
+    margin-top: 3vh;
+    margin-left: 25vw;
+    font-size: 3vh;
+    border-style: none;
+    display: block;
+    background-color:  rgba(92, 219, 149);
+    color: rgba(0, 0, 0, 0.5);
+}
+#enterotp
+{
+    height: 5vh;
+    width: 40vw;
+    margin-top: 4vh;
+    font-size: 3vh;
+    border-style: none;
+    border: none;
+    outline: none;
+}
+#otptag
+{
+    height: 3vh;
+    width: 40vw;
+    margin-top: 2vh;
+    margin-left: 10vw;
+    font-size: 2vh;
+    color: #ff0000;
+}
+#restpass
+{
+    height: 5vh;
+    width: 15vw;
+    margin-top: 3vh;
+    margin-left: 22.5vw;
+    font-size: 3vh;
+    border-style: none;
+    display: block;
+    background-color:  rgba(92, 219, 149);
+    color: rgba(0, 0, 0, 0.5);
+}
+.required
+{
+    display: block;
+}

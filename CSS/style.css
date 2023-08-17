@@ -1,0 +1,55 @@
+#menu-bar
+{
+    height: 6vh;
+    width: 50vh;
+    background-color: #5cdb95;
+    position: absolute;
+    top: 2.5vh;
+    right: 5vh;
+    display: inline-flex;
+    justify-content: end;
+}
+#menu-bar a 
+{
+    margin-right: 10px;
+    text-decoration: none;
+    width: 20vh;
+    text-align: center;
+    font-size: 2.5vh;
+    margin-top: -4vh;
+}
+#menu-bar a h3
+{
+    height: 6vh;
+    width: 100%;
+    color: #05386b;
+    background-color: #5cdb95;
+}
+#menu-bar h1
+{
+    font-size: 4vh;
+    color: #05386b;
+    background-color: #5cdb95;
+    position: relative;
+    top: -4.5vh;
+    left: -1vh;
+}
+#bg1
+{
+    height: 70vh;
+    width: 90vh;
+    background-color: #5cdb95;
+    position: absolute;
+    top: 20vh;
+    left: 15vh;
+}
+#bg-slog
+{
+    max-width: 80vh;
+    padding: 1vh;
+    color: #edf5e1;
+    position: absolute;
+    top: 35vh;
+    right: 2vw;
+    font-size: 8vh;
+}

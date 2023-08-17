@@ -1,0 +1,241 @@
+#welop
+{
+    height: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+#wel
+{
+    height: 10vh;
+    width: auto;
+    color: #05386B;
+    font-size: 8vh;
+    text-align: center;
+    display: block;
+    font-weight: 600;
+}
+#form2
+{
+    height: 80vh;
+    width: 80vh;
+    position: absolute;
+    top: 20vh;
+    left: 8vw;
+    display: flex;                  
+	flex-direction: column;         
+	justify-content: flex-start;
+}
+.formele2
+{
+    min-height: 6vh;
+}
+#firond
+{
+    height: 6vh;
+    width: 61vh;
+    margin-top: 0vh;
+    margin-left: auto;
+    margin-right: auto;
+    outline: none;
+    border: none;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+#userfirstname
+{
+    height: 5.8vh;
+    width: 27vh;
+    margin-right: 2.2vh;
+    outline: none;
+    border: none;
+    font-size: 4vh;
+    display: block;
+}
+#userlastname
+{
+    height: 5.8vh;
+    width: 27vh;
+    margin-left: 2.2vh;
+    outline: none;
+    border: none;
+    font-size: 4vh;
+}
+#username
+{
+    height: 6vh;
+    width: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1vh;
+    outline: none;
+    border: none;
+    font-size: 4vh;
+    display: block;
+}
+#userpass
+{
+    height: 6vh;
+    width: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1vh;
+    outline: none;
+    border: none;
+    font-size: 4vh;
+    display: block;
+}
+#userpassconfirm
+{
+    height: 6vh;
+    width: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1vh;
+    outline: none;
+    border: none;
+    font-size: 4vh;
+    display: block;
+}
+#useremail
+{
+    height: 6vh;
+    width: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1vh;
+    outline: none;
+    border: none;
+    font-size: 4vh;
+    display: block;
+}
+#userdob
+{
+    height: 6vh;
+    width: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1vh;
+    outline: none;
+    border: none;
+    font-size: 4vh;
+    display: block;
+}
+/*
+#radgen
+{
+    height: 6vh;
+    width: 61vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2vh;
+    outline: none;
+    border: none;
+    font-size: 4vh;
+    background-color: #0e1cdb;
+    display: flex;
+    justify-content: space-evenly;
+}
+#usergenmale, #usergenfemale, #usergenother
+{
+    display: none;
+}
+#rgm, #rgf, #rgo
+{
+    height: 4vh;
+    padding: 1vh;
+    -webkit-appearance: none;
+    background-color: crimson;
+}
+#rgm:hover, #rgf:hover, #rgo:hover
+{
+    background-color: rgba(220, 20, 60, 0.692);
+}
+#rgm::selection, #rgf::selection, #rgo::selection
+{
+    background-color: rgba(220, 20, 60, 0.692);
+}
+*/
+.required
+{
+    height: 3vh;
+    width: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2.5vh;
+    display: block;
+}
+#reqfir
+{
+    margin-top: 1vh;
+}
+#register
+{
+    min-height: 8vh;
+    width: 30vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color:#05386b;
+    color: #ffff;
+    border-radius: 50px;
+    border: none;
+    font-size: 4vh;
+}
+a
+{
+    text-decoration: none;
+    color: #ffffff;
+}
+/*/////////////////////////////////////////////////////////////////////*/
+#side-box
+{
+    height: 70vh;
+    width: 80vh;
+    background-color: #05386B;
+    position: absolute;
+    top: 18vh;
+    right: 10vh;
+    border-radius: 2.5vh;
+}
+#s-dh4
+{
+    height: 10vh;
+    width: 70vh;
+    /*background-color: #ff0000;*/
+    position: absolute;
+    top: 5vh;
+    left: 5vh;
+    text-align: center;
+}
+#s-h4
+{
+    height: 100%;
+    width: 100%;
+    /*background-color: #3f992d;*/
+    color: #ffffff;
+    position: absolute;
+    top: -5.4vh;
+    left: 0vh;
+    font-size: 4.5vh;
+}
+#s-dimg
+{
+    height: 40vh;
+    width: 60vh;
+    /*background-color: #ff0000;*/
+    position: absolute;
+    top: 25vh;
+    right: 10vh;
+}
+#s-img
+{
+    height: 100%;
+    width: 100%;
+    /*background-color: #2d8399;*/
+    color: #ffffff;
+    position: absolute;
+    top: 0vh;
+    left: 0vh;
+    font-size: 4vh;
+}

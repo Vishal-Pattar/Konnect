@@ -1,0 +1,155 @@
+#welop
+{
+    height: 25vh;
+    width: 60vw;
+    position: absolute;
+    top: 20vh;
+    left: 0vw;
+}
+#wel
+{
+    height: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+    color: #05386b;
+    font-size: 10vh;
+    text-align: center;
+    display: block;
+    font-weight: 600;
+}
+#op
+{
+    height: 6vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    color: #05386b;
+    font-size: 5.5vh;
+    text-align: center;
+}
+#form1
+{
+    height: 50vh;
+    width: 60vw;
+    position: absolute;
+    top: 48vh;
+    left: 0vw;
+}
+#loginusername
+{
+    height: 6vh;
+    width: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    outline: none;
+    border: none;
+    font-size: 4vh;
+    display: block;
+}
+#loginuserpass
+{
+    height: 6vh;
+    width: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    outline: none;
+    border: none;
+    font-size: 4vh;
+    display: block;
+}
+.required
+{
+    width: 60vh;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2.5vh;
+    display: block;
+}
+#got4
+{
+    height: 5vh;
+    width: 35vh;
+    margin-left: 46.5%;
+    margin-right: 30%;
+    margin-top: -2.5%;
+    display: block;
+    font-size: 3.2vh;  
+}
+#got4 a
+{
+    text-decoration: none;
+    color: #05386b;
+}
+#submt
+{
+    height: 8vh;
+    width: 30vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+    display: block;
+    background-color:#05386b;
+    color: #ffff;
+    border-radius: 50px;
+    border: none;
+    font-size: 4vh;
+}
+#sub-div1
+{  
+    height: 100vh;
+    width: 40vw;
+    background-color: #05386B;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+#newtag
+{
+    height: 60vh;
+    width: 40vw;
+    position: absolute;
+    top: 20vh;
+    left: 0vw;
+    text-align: center;
+}  
+#new-here
+{
+    height: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    display: block;
+    color:#ffff;
+    font-size: 9vh;
+}
+#tag
+{
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+    color:#ffff;
+    font-size: 5vh;
+}
+#sigin1
+{
+    height: 8vh;
+    width: 35vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -2%;
+    display: block;
+    background-color:#5cdb95;
+    color: #ffff;
+    border-radius: 50px;
+    border: none;
+    font-size: 4vh;
+}
+a
+{
+    text-decoration: none;
+    color: #ffffff;
+}
+

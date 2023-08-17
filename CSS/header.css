@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins';
+}
+#main-div
+{
+    height: 100%;
+    width: 100%;
+    background-color: #e5e5e5;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#head
+{
+    height: 10vh;
+    width: 100vw;
+    background-color: #0aa34f;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    display: flex;
+}
+#logo-name
+{
+    height: 10vh;
+    width: 25vw;
+    /*background-color: #5cdb95;*/
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#logo
+{
+    height: 9vh;
+    width: 10vh;
+    /*background-color: #5cdb95;*/
+    position: absolute;
+    top: 0.5vh;
+    left: 1vw;
+}
+#lname
+{
+    color: #05386b;
+    position: absolute;
+    top: -1.5vh;
+    left: 14vh;
+    font-size: 4vh;
+}
+/*
+#lname
+{
+    height: 7vh;
+    width: 22.5vh;
+    /*background-color: #5cdb95;*//*
+    position: absolute;
+    top: -3.5vh;
+    left: 13vh;
+    font-size: 5vh;
+    color: #05386b;
+    /*text-align: center;*//*
+}*/
+#ka
+{
+    text-decoration: none;
+    color: #05386b;
+}
+#profile
+{
+    height: 8vh;
+    width: 40vh;
+    background-color: #e5e5e5;
+    position: absolute;
+    top: 1vh;
+    right: 0vw;
+    border-radius: 10vh;
+    display: flex;
+    flex-direction: column;
+}
+#p-photo
+{
+    height: 7vh;
+    width: 7vh;
+    background-color: #645cdb;
+    position: absolute;
+    top: 0.5vh;
+    left: 0.5vh;
+    border-radius: 8vh;
+}
+#ph-na
+{
+    height: 7vh;
+    width: auto;
+    background-color: #e5e5e5;
+    position: absolute;
+    top: 0.5vh;
+    left: 9vh;
+    user-select: none;
+}
+#p-h4
+{
+    padding: 0px;
+    background-color: #e5e5e5;
+    position: relative;
+    top: -2.8vh;
+    left: 0vh;
+    font-size: 3vh;
+    text-align: center;
+}
+#pf-photo
+{
+    height: 100%;
+    width: 100%;
+    background-color: #555;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100%;
+}
+#log-out
+{
+    height: 7vh;
+    width: 25vh;
+    position: absolute;
+    top: 9vh;
+    right: 5vh;
+    z-index: 1;
+    display: none;
+}
+#log-out a button
+{
+    height: 6vh;
+    width: 12vh;
+    font-size: 3vh;
+    border-radius: 2vh;
+    position: relative;
+    top: 1vh;
+}

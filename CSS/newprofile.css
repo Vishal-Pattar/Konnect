@@ -1,0 +1,151 @@
+#prof
+{
+    height: 80vh;
+    width: 24vw;
+    background-color: #E5E5E5;
+    position: absolute;
+    top: 2vh;
+    right: 30vh;
+    border-radius: 1vh;
+}
+#prof-head
+{
+    height: 20vh;
+    width: 24vw;
+    background-color: #5CDB95;
+    position: absolute;
+    top: 0vh;
+    right: 0vh;
+    border-radius: 1vh 1vh 0 0;
+}
+#prof-head-ins
+{
+    height: 7vh;
+    width: 7vh;
+    background-color: #fff;
+    position: absolute;
+    top: 12vh;
+    right: 1vh;
+    border-radius: 100%;
+    cursor: pointer;
+    user-select: none;
+}
+#prof-head-img1
+{
+    height: 65%;
+    width: 65%;
+    background-color: #5cdb9500;
+    position: absolute;
+    top: 17.5%;
+    right: 17.5%;
+}
+#prof-ibox
+{
+    height: 25vh;
+    width: 25vh;
+    background-color: #D9D9D9;
+    position: absolute;
+    top: 6vh;
+    left: 6.5vw;
+    border-radius: 12.5vh;
+}
+#prof-img1
+{
+    height: 25vh;
+    width: 25vh;
+    position: absolute;
+    top: 0vh;
+    left: 0vw;
+    border-radius: 12.5vh;
+}
+#prof-sett
+{
+    height: 7vh;
+    width: 7vh;
+    background-color: #ffffff00;
+    position: absolute;
+    top: 22vh;
+    right: 1vh;
+    border-radius: 100%;
+    cursor: pointer;
+    user-select: none;
+}
+#prof-sett-img1
+{
+    height: 65%;
+    width: 65%;
+    background-color: #5cdb9500;
+    position: absolute;
+    top: 17.5%;
+    right: 17.5%;
+}
+#prof-uplo
+{
+    height: 7vh;
+    width: 13vh;
+    background-color: #ffffff00;
+    position: absolute;
+    top: 13vh;
+    left: 100%;
+    cursor: pointer;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    display: none;
+}
+.prof-uplo-inpt
+{
+    width: 12.5vh;
+}
+#prof-name
+{
+    height: 5vh;
+    width: 100%;
+    background-color: #ffffff00;
+    position: absolute;
+    top: 30vh;
+    right: 0vh;
+    user-select: none;
+    color: #555;
+    font-weight: 400;
+    text-align: center;
+}
+#prof-num
+{
+    height: 30vh;
+    width: 100%;
+    background-color: #E5E5E5;
+    position: absolute;
+    top: 40vh;
+    left: 0vh;
+}
+.prof-num-foll
+{
+    height: 5vh;
+    width: 40vh;
+    background-color: #5cdb9580;
+    position: relative;
+    margin: 4vh;
+    text-align: center;
+    font-size: 3vh;
+    border-radius: 2.5vh;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 5vh;
+}
+#prof-num-foll3
+{
+    height: 10vh;
+    border-radius: 2.5vh;
+    line-height: 5vh;
+}
+#test
+{
+    height: 40px;
+    width: 400px;
+    position: absolute;
+    top: 600px;
+    right: 20px;
+    background-color: #5CDB95;
+    display: none;
+}
