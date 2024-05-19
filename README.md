@@ -1,2 +1,2 @@
 # Konnect
-NLP based Social Media website
+Social Media website
