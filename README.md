@@ -9,17 +9,17 @@ Konnect is an NLP-based social media website that leverages natural language pro
 - **Profile Management**: Create and customize user profiles.
 - **NLP Integration**: Utilize NLP for content recommendations and sentiment analysis.
 
-## Screenshots
-
-![image](https://github.com/Vishal-Pattar/Konnect/assets/104265753/637c1851-9e26-499c-9362-4f7e806400b0)
-
-
 ## Technologies Used
 
 - **PHP**: Server-side scripting.
 - **CSS**: Styling and layout.
 - **JavaScript**: Client-side scripting.
 - **MySQL**: Database management.
+
+## Screenshots
+
+![image](https://github.com/Vishal-Pattar/Konnect/assets/104265753/637c1851-9e26-499c-9362-4f7e806400b0)
+
 
 ## Getting Started
 
